@@ -1,0 +1,93 @@
+/********************************************************************  I declare that my assignment is wholly my own work in accordance with Seneca Academic Policy. No part of this assignment has been copied manually or electronically from any other source (including web sites) except for the information supplied by the WEB222 instructors and / or made available in this assignment for my use.  I also declare that no part of this assignment has been distributed to other students.  Name: Ruslan  Badrtdinov Dated:20/03/2020 ********************************************************************/
+
+#intro {
+color: #51b73b;
+margin: 1%;
+background-image: url("../pics/woodback.jpg");
+    background-size: cover;
+border: 3px solid #27120d;
+    border-radius: 30px;
+}
+
+header {
+margin: -5px 12px -5px 15px;
+font-size: 1.875em;
+}
+
+body {
+background: linear-gradient(to bottom, #d5945a -39%, #23140d 108%);
+/*background-image: url("../pics/background.jpg");
+*/
+font-family: "tempus sans itc","Brush Script MT", "Brush Script Std", cursive ;
+}
+
+.papers {
+    float: left;
+    display: inline-block;
+    margin: 0.5%;
+    padding: 0.2%;
+    border: 3px solid #27120d;
+    border-radius: 10px;
+    background-image: url("../pics/woodback.jpg");
+    background-size: cover;
+    height: 300px;
+    width: 47%;
+
+}
+
+.pics{
+height: 37%;
+width: 37%;
+max-width: 100%;
+max-height: 100%;
+float: left;
+margin: 5px;
+border: 3px solid #27120d;
+    border-radius: 7px;
+}
+
+.text{
+color: #ffffd9;
+margin: 2px;
+font-size:1.06em;
+font-family:"Courier New", monospace;
+
+}
+
+span {
+	color: #51b73b;
+
+}
+
+
+#reflect {
+	margin: 1%;
+	color: #ffffd9;
+	padding: 1% 1.5% 1% 1.5%;
+    border: 3px solid #27120d;
+    border-radius: 30px;
+    background-image: url("../pics/woodback.jpg");
+    background-size: cover;
+    font-size: 1.5625em;
+    font-family:"Courier New", monospace ;
+    
+}
+
+
+#navig {
+
+    font-size: 1.5em ;
+}
+
+#footer {
+    display: inline-block;
+    color: #51b73b;
+    margin: 1%;
+background-image: url("../pics/woodback.jpg");
+    background-size: cover;
+border: 3px solid #27120d;
+    border-radius: 30px;
+    width: 97%;
+    text-align: center;
+    font-size: 2em ;
+}
